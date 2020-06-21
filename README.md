@@ -22,4 +22,5 @@ This app is not responsive, which means it cannot be rendering appropriately on 
 
 The following animation demonstrates the application functionality:
 ![day planner demo](./Assets/Work-Day-Scheduler.gif)
+
 Please also visit the deployed page (https://vulgarity2elegance.github.io/05-WorkDay-Scheduler/) and try it yourself!
